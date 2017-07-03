@@ -24,3 +24,7 @@ header
     background: black;
     color:white;
 }
+img
+{
+    border: 1px solid blueviolet;
+}
