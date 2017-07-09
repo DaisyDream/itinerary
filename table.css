@@ -43,5 +43,6 @@ div.fixed {
 button 
 {
     font-size: 30pt;
+    float: right;
    
 }
