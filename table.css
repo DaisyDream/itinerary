@@ -6,9 +6,12 @@ table, td, th
     border: solid;
     border-color: black;    
     font-size: 18pt;
+    display: block;
+    margin: auto;
+    width: 40%;
 }
 
-td, th {width: 50%}
+
 
 #map
 {
