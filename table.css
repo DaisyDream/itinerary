@@ -5,11 +5,14 @@ table, td, th
 {
     border: solid;
     border-color: black;    
-    font-size: 18pt;
-    
+    font-size: 18pt;    
     width: 40%;
 }
-table { margin: auto}
+table 
+{
+    margin: auto;
+    width: 80%;
+}
 
 
 #map
