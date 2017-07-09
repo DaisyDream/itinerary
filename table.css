@@ -4,11 +4,10 @@ td:hover {background-color: #69f}
 table, td, th
 {
     border: solid;
-    border-color: black;
-    
+    border-color: black;    
     font-size: 18pt;
 }
-table {width: 100%}
+
 td, th {width: 50%}
 
 #map
