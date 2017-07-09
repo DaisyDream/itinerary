@@ -1,9 +1,20 @@
 <link rel="stylesheet" type="text/css" href="table.css">
 <div class="fixed">
-<button href="/index.html">Itinerary Table</button>
-  <button href="/maps.html">Maps</button>
+<button onclick="mainLink()">Itinerary Table</button>
+  <button onclick="mapLink()">Maps</button>
 </div>
   
+<script>
+function mainLink() {
+    location.assign("https://daisydream.github.io/itinerary/");
+}
+ 
+function mapLink() {
+    location.assign("https://daisydream.github.io/itinerary/maps.html");
+}
+
+</script>
+
   
 <h1 id="DOV">Dover AFB, Delaware</h1>
 <img class="border" src="doverGate.jpg">
