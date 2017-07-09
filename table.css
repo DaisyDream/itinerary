@@ -7,10 +7,10 @@ table, td, th
     border-color: black;    
     font-size: 18pt;
     display: block;
-    margin: auto;
+   
     width: 40%;
 }
-
+table { margin: auto}
 
 
 #map
